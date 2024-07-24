@@ -1,0 +1,24 @@
+.root {
+    -fx-font-family: 'Arial';
+    -fx-padding: 10;
+}
+
+.label {
+    -fx-font-size: 14px;
+}
+
+.button {
+    -fx-background-color: #0078D7;
+    -fx-text-fill: white;
+    -fx-padding: 10 20 10 20;
+}
+
+.menu-bar {
+    -fx-background-color: #333333;
+    -fx-text-fill: white;
+}
+
+.status-bar {
+    -fx-background-color: #DDDDDD;
+    -fx-padding: 5;
+}
